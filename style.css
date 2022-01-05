@@ -1,0 +1,89 @@
+
+
+body{
+    background-image: url(https://images3.alphacoders.com/684/thumb-1920-68485.jpg);
+
+}
+
+.estilo{
+
+    background-repeat: no-repeat;
+    background-position: center;
+  
+}
+
+ul{
+margin: 0;
+padding: 5px;
+list-style-type: none;
+
+}
+
+
+h1{
+    
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+img{
+    background-position: center;
+
+
+
+}
+
+p{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1cm;
+    color: white;
+}
+
+h3{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1cm;
+    color:white;
+}
+
+
+li{
+ list-style-type: none;
+ text-align:center;
+  border-width:0;
+  margin: 5px;
+  padding: 5px;
+}
+
+.container{
+background-image: url(imagens/backgorund.png);
+background-position: center;
+background-repeat:no-repeat
+
+
+}
+
+
+
+.container1{
+background-image: url(imagens/computer-laptop-user-developer-programer_108610.png);
+    background-position: center;
+    background-repeat:no-repeat;
+    
+    
+    }
+    
+    
+    
